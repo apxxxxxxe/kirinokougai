@@ -1,8 +1,7 @@
-charset,Shift_JIS
+charset,UTF-8
 type,balloon
-id,Teatime_In_The_Fog
-name,–¶‚ÌxŠO‚É‚Ä
-craftman,aphanite
+id,kirinokougai
+name,éœ§ã®éƒŠå¤–ã«ã¦
 
 origin.x,14
 origin.y,14
@@ -10,7 +9,7 @@ origin.y,14
 wordwrappoint.x,-20
 
 font.height,14
-font.name,UD ƒfƒWƒ^ƒ‹ ‹³‰È‘‘Ì NK-R
+font.name,UD ãƒ‡ã‚¸ã‚¿ãƒ« æ•™ç§‘æ›¸ä½“ NK-R
 font.color.r,250
 font.color.g,250
 font.color.b,230
@@ -25,13 +24,13 @@ cursor.font.color.r,230
 cursor.font.color.g,120
 cursor.font.color.b,90
 
-communicatebox.name,‚l‚r ƒSƒVƒbƒN
+communicatebox.name,ï¼­ï¼³ ã‚´ã‚·ãƒƒã‚¯
 communicatebox.x,11
 communicatebox.y,11
 communicatebox.width,250
 communicatebox.height,18
 
-number.font.name,‚l‚r ƒSƒVƒbƒN
+number.font.name,ï¼­ï¼³ ã‚´ã‚·ãƒƒã‚¯
 number.font.height,10
 number.font.color.r,250
 number.font.color.g,250
@@ -45,7 +44,7 @@ sstpmarker.y,-22
 onlinemarker.x,10
 onlinemarker.y,-22
 
-sstpmessage.font.name,‚l‚r ƒSƒVƒbƒN
+sstpmessage.font.name,ï¼­ï¼³ ã‚´ã‚·ãƒƒã‚¯
 sstpmessage.x,65
 sstpmessage.y,-18
 sstpmessage.font.height,10

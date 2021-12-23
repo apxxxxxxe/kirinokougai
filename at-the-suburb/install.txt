@@ -1,5 +1,5 @@
-charset,Shift_JIS
-name,–¶‚ÌxŠO‚É‚Ä
+charset,UTF-8
+name,éœ§ã®éƒŠå¤–ã«ã¦
 type,balloon
-directory,Teatime_In_The_Fog
+directory,kirinokougai
 
