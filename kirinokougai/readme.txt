@@ -1,9 +1,9 @@
-バルーン「霧の郊外にて」
+�o���[���u���̍x�O�ɂāv
 
-ゴースト「郊外通りのハイネ」用を想定していますが、
-汎用バルーンとしても使用できます
+�S�[�X�g�u�x�O�ʂ�̃n�C�l�v�p��z�肵�Ă��܂����A
+�ėp�o���[���Ƃ��Ă��g�p�ł��܂�
 
-「COCOON」http://cocoon.daa.jp/material/index.html
-上記サイトより素材を加工して使用させていただきました。
+�uCOCOON�vhttp://cocoon.daa.jp/material/index.html
+��L�T�C�g���f�ނ����H���Ďg�p�����Ă��������܂����B
 
-再配布を禁止します。
+�Ĕz�z���֎~���܂��B
