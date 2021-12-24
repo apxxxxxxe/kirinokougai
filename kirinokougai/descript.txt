@@ -4,6 +4,8 @@ id,kirinokougai
 name,霧の郊外にて
 craftmanurl,https://github.com/apxxxxxxe
 
+homeurl,https://raw.githubusercontent.com/apxxxxxxe/at-the-suburb/main/kirinokougai/
+
 origin.x,14
 origin.y,14
 
