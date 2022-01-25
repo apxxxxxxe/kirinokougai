@@ -1,0 +1,9 @@
+dejima-sawarabi-mincho.ttfは以下の2フォントを合成した二次的著作物です。
+
+出島明朝(https://code.google.com/archive/p/dejima-fonts/downloads):
+Copyright (c) 2005-2009 Yoshiki Hayashi  <yoshiki@xemacs.org>
+Released under the MIT license
+https://opensource.org/licenses/mit-license.php
+
+さわらび明朝(https://osdn.net/projects/sawarabi-fonts/releases/75753):
+Copyright (C) 2008-2021 mshio <mshio@users.osdn.me>
