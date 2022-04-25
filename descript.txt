@@ -11,7 +11,7 @@ origin.y,14
 
 wordwrappoint.x,-20
 
-font.height,13
+font.height,14
 font.name,dejima-sawarabi-mincho.ttf
 font.color.r,250
 font.color.g,250
