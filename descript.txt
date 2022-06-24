@@ -2,7 +2,7 @@ charset,UTF-8
 type,balloon
 id,kirinokougai
 name,霧の郊外にて
-craftmanurl,https://github.com/apxxxxxxe
+craftmanurl,https://apxxxxxxe.github.io/ukagaka
 
 homeurl,https://raw.githubusercontent.com/apxxxxxxe/kirinokougai/main/
 
