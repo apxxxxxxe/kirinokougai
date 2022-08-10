@@ -5,7 +5,7 @@
 # バルーン「霧の郊外にて」
 ![preview_Fog](https://github.com/apxxxxxxe/kirinokougai/blob/images/preview.png?raw=true)
 ## 概要
-- ゴースト「Crave The Grave」推奨・同梱バルーン
+- ゴースト「[Crave The Grave](https://github.com/apxxxxxxe/Haine#readme)」推奨・同梱バルーン
 - 標準サイズ(SSPデフォルト+)より大きめ
 - フリーフォント２種を合成した独自フォントを同梱・使用
 ## ダウンロード
