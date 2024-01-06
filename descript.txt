@@ -11,7 +11,7 @@ origin.y,14
 
 wordwrappoint.x,-20
 
-font.height,14
+font.height,15
 font.name,dejima-sawarabi-mincho.ttf
 font.color.r,250
 font.color.g,250
@@ -41,15 +41,16 @@ number.font.color.b,230
 number.x,-25
 number.y,-18
 
-sstpmarker.x,48
-sstpmarker.y,-22
-
 onlinemarker.x,10
 onlinemarker.y,-22
 
+
+sstpmarker.x,12
+sstpmarker.y,-22
+
 sstpmessage.font.name,ＭＳ ゴシック
-sstpmessage.x,65
-sstpmessage.y,-18
+sstpmessage.x,22
+sstpmessage.y,-24
 sstpmessage.font.height,10
 sstpmessage.font.color.r,200
 sstpmessage.font.color.g,200
