@@ -35,11 +35,11 @@ communicatebox.height,18
 
 number.font.name,ＭＳ ゴシック
 number.font.height,10
-number.font.color.r,250
-number.font.color.g,250
-number.font.color.b,230
-number.x,-25
-number.y,-18
+number.font.color.r,200
+number.font.color.g,200
+number.font.color.b,180
+number.xr,-5
+number.y,-25
 
 onlinemarker.x,10
 onlinemarker.y,-22
